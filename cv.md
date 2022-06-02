@@ -1,6 +1,9 @@
 Andrei Russiyan
+
+
 tel. viber: +375297455334	
 E-mail: russiyanaa@rambler.ru
+
 
 ![photo](https://github.com/AndreiRussiyan/rsschool-cv/blob/gh-pages/AAR01.jpg)
 
@@ -10,9 +13,9 @@ I would like to become part of the community of IT programmers, the priority is 
 pre-intermediate level of English (opinion school Streemline 4.5 IELTS)
 
 EDUCATION: 
-1) Belarusian-Russian  University 2021 (IT courses),
-2) Belarusian-Russian  University 1996 - 2003, 
-3) Belarusian State Institute of Advanced Training in Standartization Metrology and Quality Management.
+1) Belarussian-Russian  University 2021 (IT courses),
+2) Belarussian-Russian  University 1996 - 2003, 
+3) Belarussian State Institute of Advanced Training in Standartization Metrology and Quality Management.
 
 QUALIFICATION:
 1) mechanical engineer manager
@@ -31,7 +34,7 @@ WORK EXPERIENCE:
 - chief engineer 2004-2006 
 - 1st category expert 2006 
 
-2001-2003 	Belorussian - Russian University 
+2001-2003 	Belarussian - Russian University 
 post graduate education
 
 2001	Industrial Scientific Cooperative "Mlyn" 
