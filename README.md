@@ -1,4 +1,1 @@
-# rsschool-cv
-https://github.com/AndreiRussiyan/rsschool-cv/blob/gh-pages/cv.md
-# 
-https://github.com/AndreiRussiyan/rsschool-cv/blob/rsschool-cv-html/index.html
+ https://AndreiRussiyan.github.io/rsschool-cv/
