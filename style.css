@@ -1,0 +1,63 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	background-color:white;
+	font-family: arial;
+	width: 1200px;
+	margin: 0 auto;
+}
+
+.container01{	
+margin: 0 auto;
+overflow-x: auto;
+}
+
+li {
+    list-style-type: none; /* Убираем маркеры */
+    line-height: 1.5;
+   }
+
+img {
+  max-width: 30%;
+}
+.text{
+	font-size: 15px;
+	color: black;
+}
+   p {
+    line-height: 1.5;
+   }
+
+@media (max-width: 1400px){
+.img {
+width: 300px;
+height: 300px;
+}
+}
+
+@media (max-width: 1100px){
+.img {
+width: 250px;
+height: 250px;
+}
+.text{
+	font-size: 12px;
+}
+}
+
+@media (max-width: 850px){
+.img {
+width: 200px;
+height: 200px;
+}
+.text{
+	font-size: 12px;
+}
+}
+@media (max-width: 700px){
+.img {
+display: none;
+}
+}
