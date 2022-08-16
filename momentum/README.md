@@ -1,1 +1,1 @@
-# stage1-tasks
+https://github.com/AndreiRussiyan/rsschool-cv/blob/momentum/momentum/index.html
