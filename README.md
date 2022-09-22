@@ -1,1 +1,1 @@
-https://github.com/AndreiRussiyan/rsschool-cv/blob/travel/Travel/index.html
+https://github.com/AndreiRussiyan/rsschool-cv/blob/travel/index.html
