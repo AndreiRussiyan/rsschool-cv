@@ -1,1 +1,1 @@
- https://AndreiRussiyan.github.io/rsschool-cv/
+https://github.com/AndreiRussiyan/rsschool-cv/rsschool-cv-html/
